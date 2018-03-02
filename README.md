@@ -1,3 +1,3 @@
 # ShinobiEngine
-JavaScript Game Engine
-\nTODO: Project demo
+JavaScript Game Engine\
+TODO: Project demo
