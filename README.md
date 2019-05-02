@@ -1,3 +1,3 @@
 # ShinobiEngine
-JavaScript Game Engine\
-TODO: Project demo and description.
+JavaScript 2D Platform Game Engine\
+Status: In development
